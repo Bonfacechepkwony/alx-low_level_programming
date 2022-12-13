@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main -program that prints the size of various types on the computer
- * return: 0
+ * return: 0 program should end with the value zero
  */
 int main(void)
 {
